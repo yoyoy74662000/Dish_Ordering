@@ -5,8 +5,6 @@
 //Daniel Chiang
 //Feiyang Zhao
 //Shih Han Wang
-//Latest update (If you see this line then you're really success!)
-//Last really last
 
 public class name {
 	;
