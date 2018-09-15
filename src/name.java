@@ -5,7 +5,7 @@
 //Daniel Chiang
 //Feiyang Zhao
 //Shih Han Wang
-//Last update (If you see this line then you finish github setup!!)
+//Latest update (If you see this line then you're really success!)
 
 public class name {
 	;
