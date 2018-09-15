@@ -2,6 +2,7 @@
 //Hao-Lun Lo
 //Chongliang He
 //Aosong
+//Daniel Chiang
 //Feiyang Zhao
 //Shih Han Wang
 
