@@ -1,7 +1,7 @@
 //Please type your name here
 //Hao-Lun Lo
 //Chongliang He
-//AOSONG
+//AO_SONG
 
 public class name {
 	;
