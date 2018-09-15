@@ -2,7 +2,7 @@
 //Hao-Lun Lo
 //Chongliang He
 //Aosong
-// Daniel
+//Daniel Chiang
 
 
 public class name {
